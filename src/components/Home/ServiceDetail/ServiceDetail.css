@@ -1,0 +1,10 @@
+    .service-container {
+        transition: all .4s linear;
+    }
+    
+    .service-container:hover {
+        transform: scale(1.09);
+        transition: all 0.4s linear;
+        opacity: .8;
+        cursor: pointer;
+    }

@@ -1,0 +1,9 @@
+   .header-color {
+       background-image: linear-gradient(to right, #4776E6, #8E54E9)!important;
+   }
+   
+   .btn-style {
+       box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       padding: 10px 24px;
+       border-radius: 2px;
+   }

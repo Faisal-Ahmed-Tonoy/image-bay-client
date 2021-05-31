@@ -1,0 +1,15 @@
+.cardList-part {
+    width: 360px;
+    height: 235px;
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 15px 23px;
+    margin: 0 69px 30px 0;
+}
+
+.cardList-img {
+    height: 75px;
+    width: 70px;
+    display: inline-block;
+    margin-right: auto;
+}
